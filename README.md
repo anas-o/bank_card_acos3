@@ -10,6 +10,6 @@ Reference manual guide :
 
 Personnaliser une carte à puce en mettant dessus le titre du propriétaire de la carte (M, Mme, Melle) ainsi son nom prénom, le numéro de la carte et sa date de validité. Ses données seront mises dans un fichier, annexé à un autre fichier qui va contenir la signature (hachage MD5) de ces données cryptées par la clé privé de la banque. La clé publique de la banque est stockée dans un fichier spécifique. Le code PIN de la carte sera mis dans le fichier sécurité "Security File – FF03" de la carte à puce.
 
-2. Structure de Fichier :
+2. Structure des fichiers :
 
 ![Sans titre](https://user-images.githubusercontent.com/76595864/119165356-ee1b9d00-ba4c-11eb-92f7-bd897749bffa.jpg)
